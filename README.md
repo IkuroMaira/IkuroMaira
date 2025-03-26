@@ -1,15 +1,13 @@
-## Hello 👋
+## Hello, Je suis Gwen 👋
 
-💻 Gwenaëlle | Développeuse Web en formation chez Ada Tech School
+💻 Développeuse Web en formation chez Ada Tech School
 
-Je crois que les détails et la précision font la différence dans le code comme ailleurs.
+Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
 Actuellement en apprentissage de HTML/CSS, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
 
-🔍 En recherche active d'alternance
-
-🌱 Passionnée par l'innovation et la diversité en tech
-
-🛠️ Construire pour apprendre, apprendre pour construire
+🔍 En recherche active d'alternance<br/>
+🌱 Passionnée par l'innovation et la diversité en tech<br/>
+🛠️ Construire pour apprendre, apprendre pour construire<br/>
 
 "La persévérance est au développeur ce que la précision est au code - essentielle."
 
