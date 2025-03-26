@@ -1,4 +1,4 @@
-## Hello, Je suis Gwen 👋
+## Hello, je suis Gwen 👋
 
 💻 Développeuse Web en formation chez Ada Tech School
 
