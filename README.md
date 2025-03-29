@@ -1,8 +1,7 @@
-![Fichier 18](https://github.com/user-attachments/assets/fe975e6d-7820-48fa-a221-9b43c8f29243)
+<img src="assets/images/Fichier%2018.png" alt="Hero image" style="width:100%">
 
 ## Hello, je suis Gwen 👋
-
-💻 Développeuse Web en formation chez Ada Tech School
+### 💻 Développeuse Web en formation chez Ada Tech School et à la recherche d'une alternance
 
 Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
 Actuellement en apprentissage de HTML/CSS, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
