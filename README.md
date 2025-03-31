@@ -1,4 +1,4 @@
-<img src="assets/images/001_banniere_linkedin.png" alt="Hero image" style="width:100%">
+<img src="assets/images/002_banniere_linkedin.png" alt="Hero image" style="width:100%">
 
 ## Hello, je suis Gwen 👋
 ### 💻 Développeuse Web en formation chez Ada Tech School et à la recherche d'une alternance
@@ -6,7 +6,7 @@
 Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
 Actuellement en apprentissage de HTML/CSS, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
 
-🔍 En recherche active d'alternance<br/>
+🔍 En recherche active d'alternance de 12 - 24 mois<br/>
 🌱 Passionnée par l'innovation et la diversité en tech<br/>
 🛠️ Construire pour apprendre, apprendre pour construire<br/>
 
