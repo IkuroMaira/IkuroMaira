@@ -1,15 +1,13 @@
 <img src="assets/images/Banniere_LinkedIn_388pi_V2.png" alt="Hero image" style="width:100%">
 
 ## Hello, je suis Gwen 👋
-### 💻 Développeuse Web en formation chez Ada Tech School et à la recherche d'une alternance
+### 💻 Développeuse Web en formation chez Ada Tech School
 
 Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
 Actuellement en apprentissage de HTML5/CSS3, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
 
 🌱 Passionnée par l'innovation et la diversité en tech<br/>
 🛠️ Construire pour apprendre, apprendre pour construire<br/>
-
-"La persévérance est au développeur ce que la précision est au code - essentielle."
 
 <!-- Stack -->
 
