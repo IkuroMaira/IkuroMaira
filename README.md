@@ -1,4 +1,4 @@
-<img src="assets/images/Banniere_LinkedIn_388pi_V2.png" alt="Hero image" style="width:100%">
+<img src="assets/images/004_banniere_Github_388ppi_V4.png" alt="Hero image" style="width:100%">
 
 ## Hello, je suis Gwen 👋
 ### 💻 Développeuse Web en formation chez Ada Tech School
