@@ -4,9 +4,8 @@
 ### 💻 Développeuse Web en formation chez Ada Tech School et à la recherche d'une alternance
 
 Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
-Actuellement en apprentissage de HTML/CSS, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
+Actuellement en apprentissage de HTML5/CSS3, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
 
-🔍 En recherche active d'alternance de 12 - 24 mois<br/>
 🌱 Passionnée par l'innovation et la diversité en tech<br/>
 🛠️ Construire pour apprendre, apprendre pour construire<br/>
 
