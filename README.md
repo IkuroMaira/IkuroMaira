@@ -4,10 +4,13 @@
 ### 💻 Développeuse Web en formation chez Ada Tech School
 
 Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
-Actuellement en apprentissage de HTML5/CSS3, JavaScript, React, Express, PHP, Symfony et transformant ces connaissances en projets concrets.
+Actuellement en alternance sur Ruby On Rails et transformant ces connaissances en projets concrets.
 
 🌱 Passionnée par l'innovation et la diversité en tech<br/>
 🛠️ Construire pour apprendre, apprendre pour construire<br/>
+
+## 🔭 I’m currently working on :
+- RNCP project : https://github.com/IkuroMaira/the_virtual_closet
 
 <!-- Stack -->
 
