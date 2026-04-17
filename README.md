@@ -79,7 +79,7 @@ Je recherche un **CDI en Île-de-France** à partir de **juillet 2026** au sein 
 |---|---|---|
 | 🔦 **[Spotlight](https://github.com/IkuroMaira/spotlight)** | PWA de cartographie et filtrage de lieux par tags · déployée avec Kamal + Docker | Ruby on Rails 8 · Hotwire · PostgreSQL · Docker |
 | 👗 **[Dressing Digital](https://github.com/IkuroMaira/the_virtual_closet)** | Progressive web app pour cataloguer ses vêtements | React · Python · FastAPI |
-| 💍 **Site de mariage personnalisé** | Site événementiel responsive avec optimisation des performances | HTML · CSS · JS · React |
+| 💍 **[Site de mariage personnalisé](https://yannessa.fr/)** | Site événementiel responsive avec optimisation des performances | HTML · CSS · JS · React |
 
 ---
 
@@ -166,7 +166,7 @@ I'm looking for a **permanent position (CDI) in the Île-de-France region**, ava
 |---|---|---|
 | 🔦 **[Spotlight](https://github.com/IkuroMaira/spotlight)** | PWA that maps and filters locations by tags · deployed with Kamal + Docker | Ruby on Rails 8 · Hotwire · PostgreSQL · Docker |
 | 👗 **[Digital Dressing](https://github.com/IkuroMaira/the_virtual_closet)** | Progressive web app to catalog personal clothing items | React · Python · FastAPI |
-| 💍 **Personalised Wedding Website** | Responsive event website with performance optimization | HTML · CSS · JS · React |
+| 💍 **[Personalised Wedding Website](https://yannessa.fr/)** | Responsive event website with performance optimization | HTML · CSS · JS · React |
 
 ---
 
