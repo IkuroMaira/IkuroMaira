@@ -1,35 +1,185 @@
 <img src="assets/images/004_banniere_Github_388ppi_V4.png" alt="Hero image" style="width:100%">
 
-## Hello, je suis Gwen 👋
-### 💻 Développeuse Web en formation chez Ada Tech School
+<!-- README de profil GitHub — Gwenaëlle Bussac -->
 
-Je crois que les détails et la précision font la différence dans le code comme ailleurs.<br/>
-Actuellement en alternance sur Ruby On Rails et transformant ces connaissances en projets concrets.
+<div align="center">
 
-🌱 Passionnée par l'innovation et la diversité en tech<br/>
-🛠️ Construire pour apprendre, apprendre pour construire<br/>
+# Gwenaëlle Bussac
+### Fullstack Rails Dev · Backend · Frontend · AI · CDI from July 2026
 
-## 🔭 I’m currently working on
-- RNCP project : https://github.com/IkuroMaira/the_virtual_closet
+**🇫🇷 [Français](#-version-française) · 🇬🇧 [English](#-english-version)**
 
-<!-- Stack -->
+</div>
 
-## 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-## 🖌️ Design Stack
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-<!--
-**IkuroMaira/IkuroMaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🇫🇷 Version française
 
-Here are some ideas to get you started:
+### 👋 Hello !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Développeuse fullstack junior avec une expérience concrète en alternance, je maîtrise l'écosystème **Ruby on Rails** et contribue à des projets alliant **backend, frontend et intégration d'IA**.
+
+Je recherche un **CDI en Île-de-France** à partir de **juillet 2026** au sein d'une équipe technique engagée.
+
+---
+
+### 🛠️ Stack technique
+
+#### 🔴 Technos principales (production-ready)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire%20%2F%20Turbo-informational?style=for-the-badge)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+
+#### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Back-end & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### IA & LLM
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-informational?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### Méthodes & Outils
+![TDD](https://img.shields.io/badge/TDD-informational?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+#### En cours d'apprentissage
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 💼 Expériences clés
+
+**Développeuse Web – Simundia** *(Alternance, 1 an | 07/2025 – 07/2026)*
+- Développement fullstack avec **Ruby on Rails + Turbo**
+- Tests d'intégration systématiques avec **RSpec**
+- Intégration de solutions **IA** dans les workflows de développement
+- Participation active aux **code reviews** · Mise en production
+
+**Développeuse Informatique – microDON** *(Alternance 2 ans + CDD 6 mois | 03/2022 – 03/2024)*
+- Résolution de **80% des tickets** support Jedox
+- Migration Jedox → SAP Business One
+- Automatisation du reporting financier · Documentation technique (15+ utilisateurs)
+
+---
+
+### 🚀 Projets
+
+| Projet | Description | Stack |
+|---|---|---|
+| 🔦 **[Spotlight](https://github.com/IkuroMaira/spotlight)** | PWA de cartographie et filtrage de lieux par tags · déployée avec Kamal + Docker | Ruby on Rails 8 · Hotwire · PostgreSQL · Docker |
+| 👗 **[Dressing Digital](https://github.com/IkuroMaira/the_virtual_closet)** | Progressive web app pour cataloguer ses vêtements | React · Python · FastAPI |
+| 💍 **Site de mariage personnalisé** | Site événementiel responsive avec optimisation des performances | HTML · CSS · JS · React |
+
+---
+
+### 🎓 Formations
+
+- **Ada Tech School** – Développeur Web et Web Mobile RNCP 6 *(2024–2026)*
+- **HETIC** – Concepteur Développeur de Solutions Digitales RNCP 6 *(2022–2023)*
+- **Web Force 3** – Développeur Web RNCP 4 *(2021–2022)*
+- **CESI** – Bachelor Chef de Projet Communication Digitale RNCP 6 *(2020–2021)*
+
+---
+
+### 📬 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenaelle-bussac/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwen.bussac@protonmail.com)
+
+---
+---
+
+## 🇬🇧 English Version
+
+### 👋 Hello!
+
+I'm a junior fullstack developer with solid hands-on experience in the **Ruby on Rails** ecosystem, contributing to projects spanning **backend, frontend, and AI integration**.
+
+I'm looking for a **permanent position (CDI) in the Île-de-France region**, available from **July 2026**.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🔴 Core Skills (production-ready)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire%20%2F%20Turbo-informational?style=for-the-badge)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+
+#### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Back-end & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### AI & LLM
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-informational?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### Methodology & Tools
+![TDD](https://img.shields.io/badge/TDD-informational?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+#### Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+### 💼 Key Experience
+
+**Web Developer – Simundia** *(Apprenticeship, 1 year | 07/2025 – 07/2026)*
+- Fullstack feature development with **Ruby on Rails + Turbo**
+- Systematic integration testing with **RSpec**
+- **AI solution integration** into development workflows
+- Active participation in **code reviews** · Production deployment
+
+**Software Developer – microDON** *(2-year apprenticeship + 6-month contract | 03/2022 – 03/2024)*
+- Resolved **80% of support tickets** (Jedox support & administration)
+- Jedox → SAP Business One migration
+- Financial reporting automation · Technical documentation for 15+ users
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔦 **[Spotlight](https://github.com/IkuroMaira/spotlight)** | PWA that maps and filters locations by tags · deployed with Kamal + Docker | Ruby on Rails 8 · Hotwire · PostgreSQL · Docker |
+| 👗 **[Digital Dressing](https://github.com/IkuroMaira/the_virtual_closet)** | Progressive web app to catalog personal clothing items | React · Python · FastAPI |
+| 💍 **Personalised Wedding Website** | Responsive event website with performance optimization | HTML · CSS · JS · React |
+
+---
+
+### 🎓 Education
+
+- **Ada Tech School** – Web & Mobile Developer RNCP 6 *(2024–2026)*
+- **HETIC** – Digital Solutions Developer RNCP 6 *(2022–2023)*
+- **Web Force 3** – Web Developer RNCP 4 *(2021–2022)*
+- **CESI** – Bachelor in Digital Project Management RNCP 6 *(2020–2021)*
+
+---
+
+### 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenaelle-bussac/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwen.bussac@protonmail.com)
