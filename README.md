@@ -135,13 +135,16 @@ mindmap
 
 ---
 
-### 📝 Prises de parole
+### 📝 Reconnaissances & prises de parole
 
 🗞️ **[« La tech m'a permis de reprendre confiance en moi »](https://www.paris.fr/pages/trois-femmes-dans-le-numerique-il-faut-casser-les-codes-31230)** — Ville de Paris, mai 2025  
 Témoignage sur ma reconversion dans le numérique, dans le cadre de l'événement *Diversi'Tech* à l'Hôtel de Ville de Paris.
 
 🎤 **[Diversi'Tech – ParisCode 10 ans](https://www.linkedin.com/posts/chlo%C3%A9-hermary-b52943a8_pariscode-diversitech-pariscode-activity-7331255850575011840-NiCO)** — Ville de Paris, mai 2025  
 Invitée à représenter Ada Tech School aux côtés de sa fondatrice lors de l'événement officiel de la Ville de Paris, devant des partenaires tels que Microsoft, Google et Orange. Citée par l'Adjointe à la Maire de Paris en charge des Entreprises et du Développement Économique parmi trois femmes aux « parcours inspirants ».
+
+🏅 **[Bourse « Women in Tech » – Dailymotion](https://www.linkedin.com/posts/ada-tech-school_womenintech-inclusion-techforgood-activity-7320344365216813056-xYsv)** — Ada Tech School, 2024  
+Lauréate de la bourse de scolarité *Women in Tech* financée par Dailymotion, permettant d'intégrer Ada Tech School pour une formation de 21 mois en développement web.
 
 ---
 
@@ -275,13 +278,16 @@ mindmap
 
 ---
 
-### 📝 Press & Speaking
+### 📝 Recognitions & Press
  
 🗞️ **[« La tech m'a permis de reprendre confiance en moi »](https://www.paris.fr/pages/trois-femmes-dans-le-numerique-il-faut-casser-les-codes-31230)** — Ville de Paris, May 2025  
 Featured in *Diversi'Tech*, a Ville de Paris event celebrating women in tech, sharing my journey into software development. *(Article in French)*
  
 🎤 **[Diversi'Tech – ParisCode 10th Anniversary](https://www.linkedin.com/posts/chlo%C3%A9-hermary-b52943a8_pariscode-diversitech-pariscode-activity-7331255850575011840-NiCO)** — Ville de Paris, May 2025  
 Invited to represent Ada Tech School alongside its founder at an official Ville de Paris event, in front of partners including Microsoft, Google, and Orange. Named by the Deputy Mayor of Paris for Economic Development among three women with "inspiring career paths". *(Post in French)*
+
+🏅 **[Women in Tech Scholarship – Dailymotion](https://www.linkedin.com/posts/ada-tech-school_womenintech-inclusion-techforgood-activity-7320344365216813056-xYsv)** — Ada Tech School, 2024  
+Selected as the recipient of Dailymotion's *Women in Tech* scholarship to join Ada Tech School's 21-month web development programme. *(Post in French)*
 
 ---
 
