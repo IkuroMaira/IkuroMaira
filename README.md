@@ -135,6 +135,16 @@ mindmap
 
 ---
 
+### 📝 Prises de parole
+
+🗞️ **[« La tech m'a permis de reprendre confiance en moi »](https://www.paris.fr/pages/trois-femmes-dans-le-numerique-il-faut-casser-les-codes-31230)** — Ville de Paris, mai 2025  
+Témoignage sur ma reconversion dans le numérique, dans le cadre de l'événement *Diversi'Tech* à l'Hôtel de Ville de Paris.
+
+🎤 **[Diversi'Tech – ParisCode 10 ans](https://www.linkedin.com/posts/chlo%C3%A9-hermary-b52943a8_pariscode-diversitech-pariscode-activity-7331255850575011840-NiCO)** — Ville de Paris, mai 2025  
+Invitée à représenter Ada Tech School aux côtés de sa fondatrice lors de l'événement officiel de la Ville de Paris, devant des partenaires tels que Microsoft, Google et Orange.
+
+---
+
 ### 📬 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenaelle-bussac/)
@@ -262,6 +272,16 @@ mindmap
 - **HETIC** – Digital Solutions Developer RNCP 6 *(2022–2023)*
 - **Web Force 3** – Web Developer RNCP 4 *(2021–2022)*
 - **CESI** – Bachelor in Digital Project Management RNCP 6 *(2020–2021)*
+
+---
+
+### 📝 Press & Speaking
+ 
+🗞️ **[« La tech m'a permis de reprendre confiance en moi »](https://www.paris.fr/pages/trois-femmes-dans-le-numerique-il-faut-casser-les-codes-31230)** — Ville de Paris, May 2025  
+Featured in *Diversi'Tech*, a Ville de Paris event celebrating women in tech, sharing my journey into software development. *(Article in French)*
+ 
+🎤 **[Diversi'Tech – ParisCode 10th Anniversary](https://www.linkedin.com/posts/chlo%C3%A9-hermary-b52943a8_pariscode-diversitech-pariscode-activity-7331255850575011840-NiCO)** — Ville de Paris, May 2025  
+Invited to represent Ada Tech School alongside its founder at an official Ville de Paris event, in front of partners including Microsoft, Google, and Orange. *(Post in French)*
 
 ---
 
