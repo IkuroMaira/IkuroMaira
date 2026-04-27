@@ -154,6 +154,13 @@ Lauréate de la bourse de scolarité *Women in Tech* financée par Dailymotion, 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwen.bussac@protonmail.com)
 
 ---
+
+### 👩‍🎓 CV
+
+[![CV FR](https://img.shields.io/badge/CV%20Français-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_FR.pdf)
+[![CV EN](https://img.shields.io/badge/CV%20English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_EN.pdf)
+
+---
 ---
 
 ## 🇬🇧 English Version
@@ -295,3 +302,10 @@ Selected as the recipient of Dailymotion's *Women in Tech* scholarship to join A
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwenaelle-bussac/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gwen.bussac@protonmail.com)
+
+---
+
+### 👩‍🎓 CV
+
+[![CV FR](https://img.shields.io/badge/CV%20Français-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_FR.pdf)
+[![CV EN](https://img.shields.io/badge/CV%20English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_EN.pdf)
