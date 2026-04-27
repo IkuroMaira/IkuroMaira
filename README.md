@@ -157,8 +157,8 @@ Lauréate de la bourse de scolarité *Women in Tech* financée par Dailymotion, 
 
 ### 👩‍🎓 CV
 
-[![CV FR](https://img.shields.io/badge/CV%20Français-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_FR.pdf)
-[![CV EN](https://img.shields.io/badge/CV%20English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_EN.pdf)
+[![CV FR](https://img.shields.io/badge/CV%20Français-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/2026_CV_dev_fr.pdf)
+[![CV EN](https://img.shields.io/badge/CV%20English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/2026_CV_dev_en.pdf)
 
 ---
 ---
@@ -307,5 +307,5 @@ Selected as the recipient of Dailymotion's *Women in Tech* scholarship to join A
 
 ### 👩‍🎓 CV
 
-[![CV FR](https://img.shields.io/badge/CV%20Français-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_FR.pdf)
-[![CV EN](https://img.shields.io/badge/CV%20English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/CV_Gwenaelle_Bussac_EN.pdf)
+[![CV FR](https://img.shields.io/badge/CV%20Français-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/2026_CV_dev_fr.pdf)
+[![CV EN](https://img.shields.io/badge/CV%20English-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/IkuroMaira/IkuroMaira/raw/main/assets/2026_CV_dev_en.pdf)
