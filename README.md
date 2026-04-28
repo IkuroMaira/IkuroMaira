@@ -132,6 +132,7 @@ mindmap
 - **HETIC** – Concepteur Développeur de Solutions Digitales RNCP 6 *(2022–2023)*
 - **Web Force 3** – Développeur Web RNCP 4 *(2021–2022)*
 - **CESI** – Bachelor Chef de Projet Communication Digitale RNCP 6 *(2020–2021)*
+- **Opquast** – Certification Qualité Web *(Juillet 2022)* · Score 775/1000 <a href="https://directory.opquast.com/fr/certificat/A1X2T6/" target="_blank"><img src="https://api.opquast.com/badge/A1X2T6.svg" alt="Gwenaelle Bussac - Certifiée Opquast" height="35"></a>
 
 ---
 
@@ -282,6 +283,7 @@ mindmap
 - **HETIC** – Digital Solutions Developer RNCP 6 *(2022–2023)*
 - **Web Force 3** – Web Developer RNCP 4 *(2021–2022)*
 - **CESI** – Bachelor in Digital Project Management RNCP 6 *(2020–2021)*
+- **Opquast** – Web Quality Certification *(July 2022)* · Score 775/1000 <a href="https://directory.opquast.com/fr/certificat/A1X2T6/" target="_blank"><img src="https://api.opquast.com/badge/A1X2T6.svg" alt="Gwenaelle Bussac - Opquast Certified" height="35"></a>
 
 ---
 
