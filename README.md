@@ -91,6 +91,7 @@ Je recherche un **CDI en Île-de-France** à partir de **juillet 2026** au sein 
 **Vue d'ensemble**
 
 ```mermaid
+%%{init: {'theme': 'neutral'}}%%
 mindmap
   root((Mes outils<br/>Claude Code))
     Apprendre
@@ -242,6 +243,7 @@ I'm looking for a **permanent position (CDI) in the Île-de-France region**, ava
 **Overview**
 
 ```mermaid
+%%{init: {'theme': 'neutral'}}%%
 mindmap
   root((My Claude Code<br/>tools))
     Learn
