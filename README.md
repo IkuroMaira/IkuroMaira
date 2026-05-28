@@ -23,6 +23,16 @@ Je recherche un **CDI en Île-de-France** à partir de **juillet 2026** au sein 
 
 ---
 
+### 👁️ Mon profil en un coup d'oeil
+
+> 🎓 RNCP niveau 6 — Développeur Web  
+> 💼 ~3 ans d'expérience (2,5 ans alternance + 6 mois CDD)  
+> 🎂 32 ans  
+> 📍 Île-de-France  
+> ⚙️ Ruby on Rails · JavaScript / React · Python / FastAPI · AI integration
+
+---
+
 ### 🛠️ Stack technique
 
 #### 🔴 Technos principales (production-ready)
@@ -83,50 +93,6 @@ Je recherche un **CDI en Île-de-France** à partir de **juillet 2026** au sein 
 
 ---
 
-### 🤖 Mes workflows IA sur mesure avec Claude Code
-
-> Concevoir mes outils d'IA plutôt que les subir.
-> Utiliser l'IA sans perdre la dimension apprentissage.
-
-**Vue d'ensemble**
-
-```mermaid
-%%{init: {'theme': 'neutral'}}%%
-mindmap
-  root((Mes outils<br/>Claude Code))
-    Apprendre
-      /mentor
-        Mode socratique
-        Refuse la solution
-    Reviewer
-      /pedago-review
-        Review formatrice
-        Section exploration sans IA
-    Capitaliser
-      /fiche-semaine
-        Learnings hebdo
-      /doc-creation
-        Méta-outil
-        Documente les outils
-```
-
-**Les 4 outils**
-
-| Outil              | Portée  | But                                        | Ce que ça empêche                             |
-| ------------------ | ------- | ------------------------------------------ | --------------------------------------------- |
-| `/mentor`          | user    | Apprendre Ruby sans recevoir la solution   | Sous-traiter l'apprentissage à l'IA           |
-| `/pedago-review`   | projet  | Code review rapide et formatrice           | Perdre l'aspect apprentissage en reviewant    |
-| `/fiche-semaine`   | user    | Capitaliser les learnings hebdomadaires    | Oublier ce que j'ai appris la semaine passée  |
-| `/doc-creation`    | user    | Documenter systématiquement mes outils IA  | Oublier le « pourquoi » 3 mois plus tard      |
-
-**3 principes qui structurent mes outils**
-
-- **Étape 0 de cadrage** — chaque outil commence par un alignement (objectif, plan, validation) avant l'action.
-- **Décisions écartées documentées** — chaque fiche liste ce que j'ai envisagé mais pas fait, et pourquoi.
-- **Section « Comment itérer »** — chaque outil a des points d'amélioration explicites à revoir après N utilisations.
-
----
-
 ### 🎓 Formations
 
 - **Ada Tech School** – Développeur Web et Web Mobile RNCP 6 *(2024–2026)*
@@ -173,6 +139,16 @@ Lauréate de la bourse de scolarité *Women in Tech* financée par Dailymotion, 
 I'm a junior fullstack developer with solid hands-on experience in the **Ruby on Rails** ecosystem, contributing to projects spanning **backend, frontend, and AI integration**.
 
 I'm looking for a **permanent position (CDI) in the Île-de-France region**, available from **July 2026**.
+
+---
+
+### 👁️ My profile at a glance
+
+> 🎓 RNCP Level 6 — Web Developer  
+> 💼 ~3 years experience (2.5 yrs apprenticeship + 6 mo. contract)  
+> 🎂 32 years old  
+> 📍 Paris area, France  
+> ⚙️ Ruby on Rails · JavaScript / React · Python / FastAPI · AI integration
 
 ---
 
@@ -233,50 +209,6 @@ I'm looking for a **permanent position (CDI) in the Île-de-France region**, ava
 | 🔦 **[Spotlight](https://github.com/IkuroMaira/spotlight)** | PWA that maps and filters locations by tags · deployed with Kamal + Docker | Ruby on Rails 8 · Hotwire · PostgreSQL · Docker |
 | 👗 **[Digital Dressing](https://github.com/IkuroMaira/the_virtual_closet)** | Progressive web app to catalog personal clothing items | React · Python · FastAPI |
 | 💍 **[Personalised Wedding Website](https://yannessa.fr/)** | Responsive event website with performance optimization | HTML · CSS · JS · React |
-
----
-
-### 🤖 My custom AI workflows with Claude Code
-
-> Designing my own AI tools rather than just consuming them.
-> Using AI without losing the learning dimension.
-
-**Overview**
-
-```mermaid
-%%{init: {'theme': 'neutral'}}%%
-mindmap
-  root((My Claude Code<br/>tools))
-    Learn
-      /mentor
-        Socratic mode
-        Refuses to give the answer
-    Review
-      /pedago-review
-        Formative code review
-        AI-free exploration section
-    Capitalize
-      /fiche-semaine
-        Weekly learnings
-      /doc-creation
-        Meta-tool
-        Documents the tools
-```
-
-**The 4 tools**
-
-| Tool               | Scope   | Purpose                                    | What it prevents                              |
-| ------------------ | ------- | ------------------------------------------ | --------------------------------------------- |
-| `/mentor`          | user    | Learn Ruby without being handed the answer | Outsourcing my learning to AI                 |
-| `/pedago-review`   | project | Fast, formative code reviews               | Losing the learning dimension while reviewing |
-| `/fiche-semaine`   | user    | Capture weekly learnings                   | Forgetting what I learned last week           |
-| `/doc-creation`    | user    | Systematically document my AI tools        | Forgetting the *why* 3 months later           |
-
-**3 principles shaping my tools**
-
-- **Step 0 — framing** — each tool starts with an alignment phase (goal, plan, validation) before any action.
-- **Discarded alternatives documented** — each note lists what I considered but didn't do, and why.
-- **"How to iterate" section** — each tool has explicit improvement points to revisit after N uses.
 
 ---
 
