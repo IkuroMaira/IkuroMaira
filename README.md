@@ -5,7 +5,7 @@
 <div align="center">
 
 # Gwenaëlle Bussac
-### Fullstack Rails Dev · Backend · Frontend · AI · CDI from July 2026
+### Fullstack Rails Dev · Backend · Frontend · AI · CDI from August 2026 or Internship from September 2026
 
 **🇫🇷 [Français](#-version-française) · 🇬🇧 [English](#-english-version)**
 
@@ -17,9 +17,9 @@
 
 ### 👋 Hello !
 
-Développeuse fullstack junior avec une expérience concrète en alternance, je maîtrise l'écosystème **Ruby on Rails** et contribue à des projets alliant **backend, frontend et intégration d'IA**.
+Développeuse fullstack junior avec une expérience concrète en alternance, je maîtrise l'écosystème **Ruby on Rails / Python** et contribue à des projets alliant **backend, frontend et intégration d'IA**.
 
-Je recherche un **CDI en Île-de-France** à partir de **juillet 2026** au sein d'une équipe technique engagée.
+Je recherche un **CDI/CDD en Île-de-France** à partir d'**août 2026** ou une **alternance** à partir de **septembre 2026** au sein d'une équipe technique engagée.
 
 ---
 
@@ -136,9 +136,9 @@ Lauréate de la bourse de scolarité *Women in Tech* financée par Dailymotion, 
 
 ### 👋 Hello!
 
-I'm a junior fullstack developer with solid hands-on experience in the **Ruby on Rails** ecosystem, contributing to projects spanning **backend, frontend, and AI integration**.
+I'm a junior fullstack developer with solid hands-on experience in the **Ruby on Rails / Python** ecosystem, contributing to projects spanning **backend, frontend, and AI integration**.
 
-I'm looking for a **permanent position (CDI) in the Île-de-France region**, available from **July 2026**.
+I'm looking for a **permanent position (CDI/CDD) in the Île-de-France region**, available from **August 2026** or a **Internship**, available from **September 2026**.
 
 ---
 
