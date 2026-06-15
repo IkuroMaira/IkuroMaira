@@ -76,7 +76,7 @@ Je recherche un **CDI/CDD en Île-de-France** à partir d'**août 2026** ou une 
 - Intégration de solutions **IA** dans les workflows de développement
 - Participation active aux **code reviews** · Mise en production
 
-**Développeuse Informatique – microDON** *(Alternance 2 ans + CDD 6 mois | 03/2022 – 03/2024)*
+**Développeuse Informatique – microDON** *(Alternance 1 an et demi + CDD 6 mois | 03/2022 – 03/2024)*
 - Résolution de **80% des tickets** support Jedox
 - Migration Jedox → SAP Business One
 - Automatisation du reporting financier · Documentation technique (15+ utilisateurs)
@@ -195,7 +195,7 @@ I'm looking for a **permanent position (CDI/CDD) in the Île-de-France region**,
 - **AI solution integration** into development workflows
 - Active participation in **code reviews** · Production deployment
 
-**Software Developer – microDON** *(2-year apprenticeship + 6-month contract | 03/2022 – 03/2024)*
+**Software Developer – microDON** *(1½-year apprenticeship + 6-month contract | 03/2022 – 03/2024)*
 - Resolved **80% of support tickets** (Jedox support & administration)
 - Jedox → SAP Business One migration
 - Financial reporting automation · Technical documentation for 15+ users
